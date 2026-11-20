@@ -261,8 +261,5 @@ Cybersecurity Intern at Network Walks, Batch B084
 
 LinkedIn: https://www.linkedin.com/in/dhruv-tripathi-735869365
 
----
 
-## 📌 Project Information
 
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 03 | **Project:** Password Cracking with JTR & Networkwalks Tools (W3-PM1, W3-PM2) | **Repository:** GitHub
